@@ -46,3 +46,8 @@ if (-not $env:PUBLIC_BASE_URL -or -not $env:PUBLIC_BASE_URL.EndsWith("/")) {
   --translated_dir $OutDir `
   --out_opml output\opml\translated.opml `
   --collection_name "Caribbean Intel (Translated)"
+
+# Generate daily static site
+Write-Host "
+=== Generating Daily Site ===" -ForegroundColor Cyan
+python scripts/generate_daily_site.py

@@ -1,4 +1,4 @@
-﻿# Environment variables
+# Environment variables
 .env
 .env.local
 
@@ -62,3 +62,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+output/feeds/*.xml
+
+# Exclude intermediate feed files (keep site/ for GitHub Pages)
+output/feeds/*.xml
+output/*.opml
