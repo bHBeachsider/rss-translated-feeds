@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Caribbean Geopolitics Intel Network (Cuba/Venezuela/Haiti/DR) - Feedly OPML</title>
+  </head>
+  <body>
+    <outline text="Caribbean Geopolitics Intel Network">
+
+      <!-- ========================================================= -->
+      <!-- 1) CUBA INTERNAL INSTABILITY EARLY-WARNING FEED            -->
+      <!-- ========================================================= -->
+      <outline text="Cuba - Internal Instability (Early Warning)">
+        <outline text="Signal - Independent / Exile / Civil Society (RSS)" type="rss" xmlUrl="https://www.14ymedio.com/rss"/>
+        <outline text="Signal - Diario de Cuba (RSS)" type="rss" xmlUrl="http://www.diariodecuba.com/rss.xml"/>
+        <outline text="Signal - Havana Times (RSS)" type="rss" xmlUrl="https://havanatimes.org/feed"/>
+        <outline text="Signal - CubaNet (RSS)" type="rss" xmlUrl="https://www.cubanet.org/feed"/>
+        <outline text="Signal - El Toque (RSS)" type="rss" xmlUrl="https://eltoque.com/feed/"/>
+        <outline text="Signal - Granma (Official, EN) (RSS)" type="rss" xmlUrl="https://en.granma.cu/feed"/>
+        <outline text="Signal - Juventud Rebelde (RSS)" type="rss" xmlUrl="https://www.juventudrebelde.cu/get/rss/general"/>
+
+        <!-- High-signal “bridges” (English coverage, fast) -->
+        <outline text="Reuters (EN) - Cuba (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:reuters.com+cuba&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="AP (EN) - Cuba (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:apnews.com+cuba&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+
+        <!-- Keywords (useful for “instability” signals) -->
+        <outline text="Keyword (ES) - protestas OR manifestaciones OR detenciones (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=cuba+(protestas+OR+manifestaciones+OR+detenciones)&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+        <outline text="Keyword (ES) - escasez OR inflación OR mercado negro (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=cuba+(escasez+OR+inflaci%C3%B3n+OR+%22mercado+negro%22)&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+      </outline>
+
+      <!-- ========================================================= -->
+      <!-- 2) CUBA–VENEZUELA OIL DEPENDENCY (COMPARATIVE DASHBOARD)   -->
+      <!-- ========================================================= -->
+      <outline text="Cuba–Venezuela - Oil Dependency (Comparative Dashboard Feeds)">
+        <!-- Venezuela “core” -->
+        <outline text="Reuters (EN) - Venezuela (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:reuters.com+venezuela&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="Bloomberg Markets (RSS)" type="rss" xmlUrl="https://www.bloomberg.com/feeds/markets/news.rss"/>
+
+        <!-- Cuba / Venezuela oil-shipment keywords -->
+        <outline text="Keyword (EN) - Cuba Venezuela oil shipments (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=(cuba+venezuela)+oil+shipments&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="Keyword (EN) - PDVSA Cuba fuel supply (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=PDVSA+cuba+fuel+supply&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="Keyword (ES) - env%C3%ADos de petr%C3%B3leo Cuba Venezuela (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=(cuba+venezuela)+env%C3%ADos+de+petr%C3%B3leo&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+
+        <!-- Cuba “energy situation” sources -->
+        <outline text="Prensa Latina - Cuba channel (RSS)" type="rss" xmlUrl="https://archivo.prensa-latina.cu/canal-rss-cuba"/>
+        <outline text="14ymedio (RSS)" type="rss" xmlUrl="https://www.14ymedio.com/rss"/>
+        <outline text="Diario de Cuba (RSS)" type="rss" xmlUrl="http://www.diariodecuba.com/rss.xml"/>
+      </outline>
+
+      <!-- ========================================================= -->
+      <!-- 3) CUBA BLACKOUT &amp; ENERGY CRISIS - LIVE TRACKER STRUCTURE  -->
+      <!-- ========================================================= -->
+      <outline text="Cuba - Blackout &amp; Energy Crisis (Live Tracker)">
+        <!-- Direct “Cuba daily life” sources that frequently cover outages -->
+        <outline text="Directorio Cubano (RSS)" type="rss" xmlUrl="https://directoriocubano.info/feed"/>
+        <outline text="Peri%C3%B3dico Cubano (RSS)" type="rss" xmlUrl="https://periodicocubano.com/feed"/>
+        <outline text="Havana Times (RSS)" type="rss" xmlUrl="https://havanatimes.org/feed"/>
+        <outline text="El Toque (RSS)" type="rss" xmlUrl="https://eltoque.com/feed/"/>
+
+        <!-- Outage keywords -->
+        <outline text="Keyword (ES) - apagones Cuba (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=apagones+cuba&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+        <outline text="Keyword (ES) - crisis energ%C3%A9tica Cuba (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%22crisis+energ%C3%A9tica%22+cuba&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+        <outline text="Keyword (EN) - Cuba power cuts OR blackouts (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=cuba+(power+cuts+OR+blackouts)&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      </outline>
+
+      <!-- ========================================================= -->
+      <!-- 4) CUBA SANCTIONS + REMITTANCES MONITORING SYSTEM          -->
+      <!-- ========================================================= -->
+      <outline text="Cuba - Sanctions &amp; Remittances Monitoring">
+        <!-- Federal Register (best “official change log” via RSS search) -->
+        <outline text="Federal Register - Cuba (All) (RSS search)" type="rss" xmlUrl="https://www.federalregister.gov/documents/search.rss?conditions%5Bterm%5D=Cuba"/>
+        <outline text="Federal Register - Cuban Assets Control Regulations (RSS search)" type="rss" xmlUrl="https://www.federalregister.gov/documents/search.rss?conditions%5Bterm%5D=%22Cuban%20Assets%20Control%20Regulations%22"/>
+        <outline text="Federal Register - Cuba Restricted List (RSS search)" type="rss" xmlUrl="https://www.federalregister.gov/documents/search.rss?conditions%5Bterm%5D=%22Cuba%20Restricted%20List%22"/>
+
+        <!-- Treasury / sanctions coverage (news bridge) -->
+        <outline text="Keyword (EN) - Treasury sanctions Cuba (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:home.treasury.gov+cuba+sanctions&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="Keyword (EN) - OFAC Cuba sanctions (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=OFAC+cuba+sanctions&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+
+        <!-- Remittances -->
+        <outline text="Keyword (ES) - remesas Cuba (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=remesas+cuba&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+        <outline text="Keyword (EN) - Cuba remittances restrictions (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=cuba+remittances+restrictions&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      </outline>
+
+      <!-- ========================================================= -->
+      <!-- 5) PDVSA INTERNAL RISK TRACKING (VENEZUELA)                -->
+      <!-- ========================================================= -->
+      <outline text="Venezuela - PDVSA Internal Risk Tracking">
+        <outline text="Keyword (EN) - PDVSA sanctions (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=PDVSA+sanctions&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="Keyword (EN) - PDVSA exports OR shipments (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=PDVSA+(exports+OR+shipments)&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="Keyword (ES) - PDVSA exportaciones OR cargamentos (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=PDVSA+(exportaciones+OR+cargamentos)&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+        <outline text="Reuters (EN) - Venezuela (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:reuters.com+venezuela&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      </outline>
+
+      <!-- ========================================================= -->
+      <!-- 6) CARIBBEAN GEOPOLITICS NETWORK (CUBA, VEN, HAITI, DR)    -->
+      <!-- ========================================================= -->
+      <outline text="Caribbean Geopolitics - Network (Cuba / Venezuela / Haiti / DR)">
+        <!-- Haiti -->
+        <outline text="HaitiLibre (EN flash) (RSS)" type="rss" xmlUrl="https://www.haitilibre.com/rss-flash-en.php"/>
+        <outline text="iciHaiti (EN flash) (RSS)" type="rss" xmlUrl="https://www.icihaiti.com/rss-flash-en.php"/>
+        <outline text="Haitian Times (RSS)" type="rss" xmlUrl="https://haitiantimes.com/feed"/>
+
+        <!-- DR (use Google News bridge by site) -->
+        <outline text="Dominican Rep. - Diario Libre (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:diariolibre.com+haiti+OR+cuba+OR+venezuela&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+        <outline text="Dominican Rep. - List%C3%ADn Diario (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:listindiario.com+haiti+OR+cuba+OR+venezuela&amp;hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+
+        <!-- Regional keywords -->
+        <outline text="Keyword (EN) - Caribbean geopolitics (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=caribbean+geopolitics+(cuba+OR+haiti+OR+venezuela+OR+dominican)&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      </outline>
+
+      <!-- ========================================================= -->
+      <!-- 7) EXTERNAL LENS: RUSSIAN / FARSI / CHINESE / ARABIC       -->
+      <!-- ========================================================= -->
+      <outline text="External Lens - Russia / Farsi / China / Arabic (Cuba Focus)">
+        <outline text="RU - %D0%9A%D1%83%D0%B1%D0%B0 (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%D0%9A%D1%83%D0%B1%D0%B0&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
+        <outline text="FA - %DA%A9%D9%88%D8%A8%D8%A7 (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%DA%A9%D9%88%D8%A8%D8%A7&amp;hl=fa&amp;gl=IR&amp;ceid=IR:fa"/>
+        <outline text="ZH - %E5%8F%A4%E5%B7%B4 (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%E5%8F%A4%E5%B7%B4&amp;hl=zh-CN&amp;gl=CN&amp;ceid=CN:zh-Hans"/>
+        <outline text="AR - %D9%83%D9%88%D8%A8%D8%A7 (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%D9%83%D9%88%D8%A8%D8%A7&amp;hl=ar&amp;gl=AE&amp;ceid=AE:ar"/>
+
+        <!-- Add the “oil/energy” angle in each language -->
+        <outline text="RU - %D0%9A%D1%83%D0%B1%D0%B0 %D0%BD%D0%B5%D1%84%D1%82%D1%8C (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%D0%9A%D1%83%D0%B1%D0%B0+%D0%BD%D0%B5%D1%84%D1%82%D1%8C&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
+        <outline text="FA - %DA%A9%D9%88%D8%A8%D8%A7 %D9%86%D9%81%D8%AA (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%DA%A9%D9%88%D8%A8%D8%A7+%D9%86%D9%81%D8%AA&amp;hl=fa&amp;gl=IR&amp;ceid=IR:fa"/>
+        <outline text="ZH - %E5%8F%A4%E5%B7%B4 %E7%9F%B3%E6%B2%B9 (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%E5%8F%A4%E5%B7%B4+%E7%9F%B3%E6%B2%B9&amp;hl=zh-CN&amp;gl=CN&amp;ceid=CN:zh-Hans"/>
+        <outline text="AR - %D9%83%D9%88%D8%A8%D8%A7 %D9%86%D9%81%D8%B7 (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%D9%83%D9%88%D8%A8%D8%A7+%D9%86%D9%81%D8%B7&amp;hl=ar&amp;gl=AE&amp;ceid=AE:ar"/>
+      </outline>
+
+      <!-- ========================================================= -->
+      <!-- 8) OPTIONAL: “HIGH SIGNAL ONLY” MINI-FOLDER               -->
+      <!-- ========================================================= -->
+      <outline text="High Signal Only (Minimal)">
+        <outline text="Reuters - Cuba (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:reuters.com+cuba&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="Reuters - Venezuela (Google News RSS)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:reuters.com+venezuela&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+        <outline text="Bloomberg Markets (RSS)" type="rss" xmlUrl="https://www.bloomberg.com/feeds/markets/news.rss"/>
+        <outline text="Federal Register - Cuba (RSS search)" type="rss" xmlUrl="https://www.federalregister.gov/documents/search.rss?conditions%5Bterm%5D=Cuba"/>
+      </outline>
+
+    </outline>
+  </body>
+</opml>
