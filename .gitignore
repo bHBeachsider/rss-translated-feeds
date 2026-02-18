@@ -67,3 +67,7 @@ output/feeds/*.xml
 # Exclude intermediate feed files (keep site/ for GitHub Pages)
 output/feeds/*.xml
 output/*.opml
+
+# Exclude intermediate feed files (keep site/ for GitHub Pages)
+output/feeds/*.xml
+output/*.opml
